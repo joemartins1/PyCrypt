@@ -10,7 +10,7 @@ PyCrypt est un programme Python permettant de crypter et décrypter des messages
 # Installation
 - Cloner le dépôt : git clone https://github.com/joemartins1/PyCrypt.git
 - Accéder au répertoire : cd pycrypt
-- 
+  
 # Utilisation
 Pour crypter/décrypter des messages,ouvrez simplement le programme avec les commandes:
 python pycrypt.py
